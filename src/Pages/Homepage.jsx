@@ -7,6 +7,7 @@ const Homepage = () => {
     <div>
         <Header/>
         <Body/>
+        
     </div>
   )
 }

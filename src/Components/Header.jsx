@@ -10,7 +10,7 @@ const Header = () => {
         <div className='w-full bg-[#800080] fixed py-4 shadow border-b-2 border-black'>
             <nav>
                 <div className="max-w-screen-xl flex flex-wrap justify-between mx-auto p-4">
-                    <a href="https://react.dev" className="flex items-center ">
+                    <a href="https://react.dev" className="flex items-center gap-2">
                         <img src={reactLogo} className="h-8" alt="Flowbite Logo" />
                         <span className="self-center text-white text-2xl font-semibold whitespace-nowrap">React Js</span>
                     </a>
@@ -24,7 +24,7 @@ const Header = () => {
                         </button>
                     </div>
                     <div className="items-center justify-between hidden w-full md:flex md:w-auto md:order-1" id="navbar-cta">
-                        <ul className="flex flex-col font-medium p-4 md:p-0 mt-4 border border-gray-100 rounded-lg md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 ">
+                        <ul className="flex flex-col font-medium p-4 md:p-0 mt-4 rounded-lg md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 ">
                             <li>
                                 <a href="#" className="block py-2 px-3 md:p-0 text-white hover:text-yellow-600 rounded-sm md:bg-transparent md:text-white" aria-current="page">HOME</a>
                             </li>
