@@ -1,0 +1,82 @@
+[
+   {
+      "id": "1",
+      "type": "FullTime",
+      "title": "Senior React Developer",
+      "description": "Lorem ipsum, dolor sit djsijeisdji jjejiv  amet conse ctetur adipisicing elit. Est ani mi repudiandae officia eligendi error doloribus. Ratione aliquam beatae aspernatur aut. Labore as pernatur magnam consectetur exerc itationem culpa quia nobis odit repellendus!",
+      "salary": "$70K - $80K",
+      "location": "Boston, MA"
+   },
+   {
+      "id": "2",
+      "type": "Remote",
+      "title": "Front end Engineer (React)",
+      "description": "Lorem ipsum, dolor sit isdjijii jasdji jisjd amet conse ctetur adipisicing elit. Est ani mi repudiandae officia eligendi error doloribus. Ratione aliquam beatae aspernatur aut. Labore as pernatur magnam consectetur exerc itationem culpa quia nobis odit repellendus!",
+      "salary": "$70K - $80K",
+      "location": "Miami, FL"
+   },
+   {
+      "id": "3",
+      "type": "Part Time",
+      "title": "Back end Engineer (Node Js)",
+      "description": "Lorem ipsum, dolor sit amet sdiji jiasij ia conse ctetur adipisicing elit. Est ani mi repudiandae officia eligendi error doloribus. Ratione aliquam beatae aspernatur aut. Labore as pernatur magnam consectetur exerc itationem culpa quia nobis odit repellendus!",
+      "salary": "$70K - $80K",
+      "location": "London, UK"
+   },
+   {
+      "id": "4",
+      "type": "Full Time",
+      "title": "React Js Developer",
+      "description": "Lorem ipsum, dolor sit amet dhsuauhu usuhu huahsuh uuahs conse ctetur adipisicing elit. Est ani mi repudiandae officia eligendi error doloribus. Ratione aliquam beatae aspernatur aut. Labore as pernatur magnam consectetur exerc itationem culpa quia nobis odit repellendus!",
+      "salary": "$60K - $70K",
+      "location": "Brooklyn, NY"
+   },
+   {
+      "id": "5",
+      "type": "Full Time",
+      "title": "Full Stack React Developer",
+      "description": "Lorem dsau uhuhsauehu huh ipsum, dolor sit amet conse ctetur adipisicing elit. Est ani mi repudiandae officia eligendi error doloribus. Ratione aliquam beatae aspernatur aut. Labore as pernatur magnam consectetur exerc itationem culpa quia nobis odit repellendus!",
+      "salary": "$90K - $100K",
+      "location": "Atlanta, GA"
+   },
+   {
+      "id": "6",
+      "type": "Full Time",
+      "title": "React Native Developer",
+      "description": " dsih ihisdh aishih iaishih a Lorem ipsum, dolor sit amet conse ctetur adipisicing elit. Est ani mi repudiandae officia eligendi error doloribus. Ratione aliquam beatae aspernatur aut. Labore as pernatur magnam consectetur exerc itationem culpa quia nobis odit repellendus!",
+      "salary": "$100K - $110K",
+      "location": "Portland, OR"
+   },
+   {
+      "id": "7",
+      "type": "Remote",
+      "title": "Frontend Developer (React.js)",
+      "description": "We’re looking for a skilled Frontend Developer to build responsive and modern web interfaces using React.js and Tailwind CSS. The ideal candidate should have experience with REST APIs, state management, and responsive design.",
+      "salary": "$85K - $100K",
+      "location": "Remote (Worldwide)"
+   },
+   {
+      "id": "8",
+      "type": "Hybrid",
+      "title": "Backend Developer (Node.js)",
+      "description": "Join our backend team to develop scalable APIs and microservices using Node.js and Express. You’ll collaborate with frontend developers and DevOps engineers to ensure secure and high-performance systems.",
+      "salary": "$90K - $115K",
+      "location": "Lagos, Nigeria"
+   },
+   {
+      "id": "9",
+      "type": "Full Time",
+      "title": "Full Stack Developer (MERN)",
+      "description": "We’re seeking a Full Stack Developer proficient in MongoDB, Express, React, and Node.js. You’ll design and implement end-to-end solutions while contributing to architectural decisions and performance optimization.",
+      "salary": "$95K - $120K",
+      "location": "Austin, TX"
+   },
+   {
+      "id": "10",
+      "type": "Contract",
+      "title": "Mobile App Developer (Flutter)",
+      "description": "We need a Flutter Developer to build cross-platform mobile applications for Android and iOS. You’ll work closely with designers and backend engineers to deliver pixel-perfect and smooth user experiences.",
+      "salary": "$70K - $95K",
+      "location": "Toronto, Canada"
+   }
+]

@@ -7,8 +7,8 @@ const Header = () => {
   
     
     return (
-        <div className='w-full bg-[#800080] fixed py-4 shadow border-b-2 border-black'>
-            <nav>
+        <div>
+            <nav className='w-full bg-[#800080] fixed py-4 shadow border-b-2 border-black'>
                 <div className="max-w-screen-xl flex flex-wrap justify-between mx-auto p-4">
                     <a href="https://react.dev" className="flex items-center gap-2">
                         <img src={reactLogo} className="h-8" alt="Flowbite Logo" />
